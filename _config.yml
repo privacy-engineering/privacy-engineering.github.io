@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: Privacy Engineering in Practice '23 # the website title (if blank, full name will be used instead)
-full_title: "Workshop on Privacy Engineering in Practice: Beyond Checkbox Compliance"
-# first_name: You
-# middle_name: R.
-# last_name: Name
+full_title: "Workshop on Privacy Engineering in Practice (PEP '23): Beyond Checkbox Compliance"
+first_name: PEP
+# middle_name: 
+last_name: 23
 # email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Description Goes Here
