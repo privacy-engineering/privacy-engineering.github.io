@@ -15,7 +15,7 @@ PEP ’23 will take place at the Anaheim Marriott in Anaheim, CA, USA, on Sunday
 | Time (PT)&emsp;&emsp;  | Duration&emsp;&emsp; | Program |
 | --- | --- | --- |
 | 9:00 am - 9:15 am&emsp;&emsp;   | 15 mins&emsp;&emsp; | Welcome and Opening Remarks  | 
-| 9:15 am - 10:45 am&emsp;&emsp;  | 1.5 hrs&emsp;&emsp; | Show file differences that haven't been staged | 
+| 9:15 am - 10:45 am&emsp;&emsp;  | 1.5 hrs&emsp;&emsp; | Session 1: Research Papers   | 
 | 10:45 am - 11:00 am&emsp;&emsp; | 15 mins&emsp;&emsp; | Break | |
 | 11:00 am - 11:30 am&emsp;&emsp; | 30 mins&emsp;&emsp; | Session 2: Lightning Talks and Demos | 
 | 11:30 pm - 12:25 pm&emsp;&emsp; | 1 hr&emsp;&emsp;    | Session 3: Research Papers  | 

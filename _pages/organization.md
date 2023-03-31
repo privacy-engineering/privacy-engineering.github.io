@@ -8,6 +8,8 @@ nav: true
 nav_order: 2
 ---
 
+Please reach out to Nikita Samarin (nsamarin[at]berkeley.edu) for any inquiries about the workshop.
+
 <!-- ## General Chair
 * ...  -->
 
