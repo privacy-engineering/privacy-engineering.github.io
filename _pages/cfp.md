@@ -34,15 +34,16 @@ We will consider topics including but not limited to:
 * Scaling privacy engineering programs 
 * Privacy assurance and validation techniques 
 
+## Workshop Format
+One author of each accepted submission is expected to present the work at the workshop. Interactive and engaging presentations are welcomed. Following notification to authors, more information will be provided regarding speaking times and other details.
+
 ## Submission Instructions
 Submissions should be formatted using the SOUPS submission template (available for [MS Word](https://www.usenix.org/sites/default/files/conference-files/usenix2022_soups.doc) or [LaTeX](https://www.usenix.org/sites/default/files/conference-files/usenix2022_soups_latex-template.zip)) and submitted as a PDF. Submissions should be fully anonymized.
 
 Submissions should be made via the HotCRP portal: TBA.
 
-**Full Papers**
-
-We are soliciting 4-5 page submissions (including references) on topics relating to authentication. Accepted submissions will be posted to the WAY workshop website (wayworkshop.org). We encourage participants to also make their workshop presentations available on the website. These submissions will not be considered “published” work, and as such, should not preclude publication elsewhere.
+**Research Papers**
+We are soliciting submissions on topics relating to privacy engineering. Submitted papers must be no longer than five pages, including all figures. References and appendices will not count towards this limit, but reviewers are not required to read appendices. Accepted research papers will be made available on the workshop web site (pep23.com). We encourage participants to also make their workshop presentations available on the website. These submissions will not be considered "published" work, and as such, should not preclude publication elsewhere.
 
 **Industry Reports**
-
 We are looking for contributions from industry or public entities in the following form: a 1-2 page report together with a slide deck for a presentation of approx. 15 minutes. We do not want product pitches or slides from marketing/sales representatives. All submissions will be reviewed, and authors agree to revise their slides as needed.
