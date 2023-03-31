@@ -37,7 +37,7 @@ We will consider topics including but not limited to:
 ## Submission Instructions
 Submissions should be formatted using the SOUPS submission template (available for [MS Word](https://www.usenix.org/sites/default/files/conference-files/usenix2022_soups.doc) or [LaTeX](https://www.usenix.org/sites/default/files/conference-files/usenix2022_soups_latex-template.zip)) and submitted as a PDF. Submissions should be fully anonymized.
 
-Submissions should be made via the HotCRP submission portal: TBA.
+Submissions should be made via the HotCRP portal: TBA.
 
 **Full Papers**
 
