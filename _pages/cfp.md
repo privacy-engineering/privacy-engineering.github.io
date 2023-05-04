@@ -40,7 +40,7 @@ One author of each accepted submission is expected to present the work at the wo
 ## Submission Instructions
 Submissions should be formatted using the SOUPS submission template (available for [MS Word](https://www.usenix.org/sites/default/files/conference-files/usenix2022_soups.doc) or [LaTeX](https://www.usenix.org/sites/default/files/conference-files/usenix2022_soups_latex-template.zip)) and submitted as a PDF. Submissions should be fully anonymized.
 
-Submissions should be made via the HotCRP portal: TBA.
+Submissions should be made via the HotCRP portal: [https://pep23.usenix.hotcrp.com/](https://pep23.usenix.hotcrp.com/).
 
 **Research Papers**
 We are soliciting submissions on topics relating to privacy engineering. Submitted papers must be no longer than five pages, including all figures. References and appendices will not count towards this limit, but reviewers are not required to read appendices. Accepted research papers will be made available on the workshop web site (pep23.com). We encourage participants to also make their workshop presentations available on the website. These submissions will not be considered "published" work, and as such, should not preclude publication elsewhere.
