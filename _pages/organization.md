@@ -18,4 +18,22 @@ Please reach out to Nikita Samarin (nsamarin[at]berkeley.edu) for any inquiries 
 * Nandita Rao Narla, DoorDash
 
 ## Program Committee
-TBA
+* Vaibhav Garg, Comcast
+* Konrad Kollnig, Maastricht University
+* Kim Wuyts, KU Leuven
+* Nitin Agrawal, Snap Inc
+* Kevin Liao, MIT
+* Dylan Gilbert, NIST
+* Daniel Smullen, Amazon
+* Peter Story, Clark University
+* Jordan Fischer, Drexel University
+
+
+
+
+
+
+
+
+
+
