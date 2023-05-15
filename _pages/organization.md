@@ -8,7 +8,7 @@ nav: true
 nav_order: 2
 ---
 
-Please reach out to Nikita Samarin (nsamarin[at]berkeley.edu) for any inquiries about the workshop.
+Please reach out to the program chairs at [soups23-pep@usenix.org](mailto:soups23-pep@usenix.org) for any inquiries about the workshop.
 
 <!-- ## General Chair
 * ...  -->
