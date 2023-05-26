@@ -11,7 +11,7 @@ nav_order: 1
 This workshop aims to stimulate discussion among diverse stakeholders about how privacy engineering can be used to push the envelope on privacy regulatory compliance.
 
 ## Important Dates
-Submission deadline: May 25, 2023 - 23:59 AoE (Anywhere on Earth)<br>
+Submission deadline: ~~May 25, 2023~~ **June 1, 2023** - 23:59 AoE (Anywhere on Earth)<br>
 Acceptance notification: June 8, 2023<br>
 Camera-ready: Wednesday, June 22, 2023<br>
 Workshop: August 6, 2023<br>
