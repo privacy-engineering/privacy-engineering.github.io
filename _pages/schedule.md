@@ -14,8 +14,8 @@ PEP ’23 will take place at the Anaheim Marriott in Anaheim, CA, USA, on Sunday
 
 | Time (PT)  | Duration | Program |
 | :--- | :--- | :--- |
-| 10:00 am - 10:10 am | 10 mins&emsp;&emsp; | Welcome and Opening Remarks         | 
-| 10:10 am - 11:00 am | 50 mins&emsp;&emsp; | Invited Keynote (Speaker TBD)       | 
+| 10:00&nbsp;am&nbsp;-&nbsp;10:10&nbsp;am | 10 mins&emsp;&emsp; | Welcome and Opening Remarks         | 
+| 10:10&nbsp;am&nbsp;-&nbsp;11:00&nbsp;am | 50 mins&emsp;&emsp; | Invited Keynote (Speaker TBD)       | 
 |                     | 60 mins&emsp;&emsp; | Paper Session I — Research Papers   |
 | 11:00 am - 11:15 am | 15 mins&emsp;&emsp; | Paper 1 — "Measuring the Effectiveness of Spinner-based Randomized-Response Differential Privacy Communication for Sensitive Data Sharing" | 
 | 11:15 am - 11:30 am | 15 mins&emsp;&emsp; | Paper 2 — "Mind the FemTech Gap: Regulation Failings and Exploitative Systems"  | 
