@@ -10,6 +10,18 @@ nav_order: 3
 
 PEP ’23 will take place at the Anaheim Marriott in Anaheim, CA, USA, on Sunday, August 6th, 2023, from 10:00 am to 1:30 pm PT.
 
+<table
+  data-toggle="table"
+  data-url="{{ '/assets/json/schedule.json' | relative_url }}">
+  <thead>
+    <tr>
+      <th data-field="time">Time (PT)</th>
+      <th data-field="duration">Duration</th>
+      <th data-field="program">Program</th>
+    </tr>
+  </thead>
+</table>
+
 ### Tentative Agenda
 
 | Time (PT)&emsp;&emsp;  | Duration&emsp;&emsp; | Program |
