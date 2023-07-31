@@ -5,7 +5,7 @@ title: Call for Papers
 # description: > 
 #     PEP ’23 will be co-located with the Nineteenth Symposium on Usable Privacy and Security (SOUPS 2023).
 nav: true
-nav_order: 1
+nav_order: 3
 ---
 
 This workshop aims to stimulate discussion among diverse stakeholders about how privacy engineering can be used to push the envelope on privacy regulatory compliance.

@@ -1,16 +1,18 @@
 ---
 layout: post
-title: Building an Affordable and Usable Data Diode to Protect Journalists
-session_start: 2023-08-06T11:30:00-07:00
-session_end: 2023-08-06T11:45:00-07:00
-meta: Research Paper
+title: "Designing for Friction: Using Strategic/Desirable Inefficiencies to Address the Emerging Privacy Challenges of AI"
+session_start: 2023-08-06T12:45:00-07:00
+session_end: 2023-08-06T13:00:00-07:00
+meta: Industry Report
+pdf: /assets/pdf/pep23-paper3.pdf
 ---
 
 ### Authors
-Peter Story (Clark University)
+Annabelle Larose (Palantir Technologies), Naomi Kadish (Palantir Technologies), and Philipp Wotan Wolf (Palantir Technologies)
 
 ### Abstract
-Journalists and other high-risk populations must protect themselves from powerful adversaries. For example, journalists using SecureDrop open potentially malicious documents on an air-gapped workstation to protect themselves from data exfiltration. However, transferring documents across an air-gap is inconvenient, and challenging to do securely. We propose using a "data diode," a unidirectional network device, to navigate an air-gap securely and conveniently. Unfortunately, proprietary off-the-shelf data diodes are prohibitively expensive, with prices in the thousands of dollars. First, we survey solutions for using commodity hardware to build a cost-effective data diode. Then, we build a data diode for less than $80. Next, we describe the performance and reliability of transferring data across the device. We test existing software to identify settings that enable reliable data transfers. We also describe our prototype software, pydiode, which transfers data reliably at higher speeds than the other software we tested. Finally, we explain next steps to prepare data diodes for deployment to newsrooms.
+The paper aims to explore the concept of 'Desirable Inefficiency' in privacy engineering, highlighting its significance and limitations in product design, particularly in designing and developing AI and machine learning applications. The paper will focus on the analysis of existing privacy features, such as cookie consent interfaces, and will provide recommendations for implementing desirable inefficiency without hindering usability. Furthermore, it will examine use-cases in data analytics and assess the legislative landscape in Europe and the US, proposing potential changes to promote adoption of desirable inefficiencies in critical digital workflows.
 
 ### Download
-(TBD)
+&#8203;
+{%- if page.pdf -%}<a href="{{ page.pdf }}">PDF</a>{%- else -%}(TBD){%- endif %}

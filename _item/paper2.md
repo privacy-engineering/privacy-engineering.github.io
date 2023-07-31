@@ -1,16 +1,18 @@
 ---
 layout: post
-title: "Mind the FemTech Gap: Regulation Failings and Exploitative Systems"
-session_start: 2023-08-06T11:15:00-07:00
-session_end: 2023-08-06T11:30:00-07:00
+title: Measuring the Effectiveness of Spinner-based Randomized-Response Differential Privacy Communication for Sensitive Data Sharing
+session_start: 2023-08-06T11:00:00-07:00
+session_end: 2023-08-06T11:15:00-07:00
 meta: Research Paper
+pdf: /assets/pdf/pep23-paper2.pdf
 ---
 
 ### Authors
-Maryam Mehrnezhad (Royal Holloway, University of London), Thyla van der Merwe (formerly at ETH Zurich), and Mike Catt (Newcastle University, UK)
+Seo Young Ko (Carnegie Mellon University), Sriram Viswanathan (Carnegie Mellon University), Alan Esquenazi (Carnegie Mellon University), Swadhin Routray (Carnegie Mellon University), Jatan Loya (Carnegie Mellon University), Tianshi Li (Carnegie Mellon University), and Lorrie Faith Cranor (Carnegie Mellon University)
 
 ### Abstract
-We study the female-oriented technologies (FemTech) ecosystem including regulations, IoT systems, mobile apps, and websites and reveal the exploitative patterns embedded in such systems due to the incompetent regulations. We advocate for the policymakers to explicitly acknowledge and accommodate the risks of these technologies in the relevant regulations.
+With the world moving in a direction that is heavily dependent on data, it is essential to ensure that this exchange of data does not lead to harm to humans in terms of privacy. To protect data privacy, corporations often adopt differential privacy, which is one of the Privacy Enhancing technologies (PETs), to enable privacy-preserving data sharing. In this work, we measure the usability of Differential Privacy (DP) communication, especially the Randomized Response Technique (RRT) in terms of users capability to add valid noises based on their comprehension and comfort level. We measure the effectiveness of a spinner-based RRT interface by conducting an exploratory between-group online survey which collects sensitive information in a hypothetical scenario. We found that many participants did not follow instructions on the spinner interface to add noise correctly, and did not understand the purpose of the spinner. Based on this finding, we provide suggestions for future work to improve the RRT interface for better DP communication.
 
 ### Download
-(TBD)
+&#8203;
+{%- if page.pdf -%}<a href="{{ page.pdf }}">PDF</a>{%- else -%}(TBD){%- endif %}
