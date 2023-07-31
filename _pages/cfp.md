@@ -13,8 +13,8 @@ This workshop aims to stimulate discussion among diverse stakeholders about how 
 ## Important Dates
 Submission deadline: ~~May 25, 2023~~ **June 1, 2023** - 23:59 AoE (Anywhere on Earth)<br>
 Acceptance notification: June 8, 2023<br>
-Camera-ready: Wednesday, June 22, 2023<br>
-Workshop: August 6, 2023<br>
+Camera-ready: ~~Wednesday, June 22, 2023~~ **July 6, 2023**<br>
+Workshop: August 6, 2023 from 10:00 am to 1:30 pm (PDT)<br>
 
 ## Topics of Interest
 We will consider topics including but not limited to:
