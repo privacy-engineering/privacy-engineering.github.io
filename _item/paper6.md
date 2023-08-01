@@ -4,7 +4,7 @@ title: "Mind the FemTech Gap: Regulation Failings and Exploitative Systems"
 session_start: 2023-08-06T11:15:00-07:00
 session_end: 2023-08-06T11:30:00-07:00
 meta: Research Paper
-# pdf: /assets/pdf/pep23-paper6.pdf
+pdf: /assets/pdf/pep23-paper6.pdf
 ---
 
 ### Authors
